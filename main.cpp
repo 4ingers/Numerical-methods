@@ -1,3 +1,5 @@
+// ===== 1 lab =====
+
 #define _USE_MATH_DEFINES
 #define EPS 1e-10
 
