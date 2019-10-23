@@ -1,3 +1,5 @@
+# ===== 2 lab =====
+
 def bisection(f, a, b, eps, max_iter):
     print()
     print('BISECTION[', a, b, '] >> Started')
